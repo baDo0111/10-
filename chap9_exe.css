@@ -69,8 +69,8 @@ main {
 
 	.step-box {
 		width: 90%;
-		margin-left: 5%;
-		margin-right: 5%;
+		margin: 0 auto;
+		float: none;
 	}
 
 	.step-box:first-child {
